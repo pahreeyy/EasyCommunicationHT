@@ -76,15 +76,15 @@ h6 {
 --------------------------------------------------------------*/
 
 #topbar {
-  background: #fff;
+  background: #035F5C;
   padding: 10px 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #065854;
   font-size: 14px;
 }
 
 #topbar .contact-info a {
   line-height: 1;
-  color: #555;
+  color: #fff;
 }
 
 #topbar .contact-info a:hover {
@@ -92,7 +92,7 @@ h6 {
 }
 
 #topbar .contact-info i {
-  color: #50d8af;
+  color: #fff;
   padding: 4px;
 }
 
@@ -237,7 +237,7 @@ h6 {
 
 #intro .intro-content .btn-projects:hover {
   background: none;
-  color: #50d8af;
+  color: #EADED0;
 }
 
 #intro #intro-carousel {
