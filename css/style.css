@@ -554,9 +554,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .content h3 {
-  font-size: 20px;
-  padding-right: 4px;
-  color: black;
+  color: #555;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 26px;
+  font-style: italic;
 }
 
 #about .content p {
