@@ -50,7 +50,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #50d8af;
+  background: #4ea099;
   color: #fff;
   padding: 6px 12px 9px 12px;
   font-size: 16px;
@@ -61,13 +61,13 @@ h6 {
 }
 
 .back-to-top:focus {
-  background: #50d8af;
+  background: #4ea099;
   color: #fff;
   outline: none;
 }
 
 .back-to-top:hover {
-  background: #0c2e8a;
+  background: #9E3532;
   color: #fff;
 }
 
@@ -76,9 +76,9 @@ h6 {
 --------------------------------------------------------------*/
 
 #topbar {
-  background: #035F5C;
+  background: #59A8A3;
   padding: 10px 0;
-  border-bottom: 1px solid #065854;
+  border-bottom: 1px solid #4e948f;
   font-size: 14px;
 }
 
@@ -103,7 +103,7 @@ h6 {
 }
 
 #topbar .social-links a {
-  color: #555;
+  color: #fff;
   padding: 4px 12px;
   display: inline-block;
   line-height: 1px;
@@ -127,7 +127,7 @@ h6 {
   height: 84px;
   transition: all 0.5s;
   z-index: 997;
-  background: #035F5C;
+  background: #4a8c87;
   box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
 }
 
@@ -141,7 +141,7 @@ h6 {
 }
 
 #header #logo h1 a {
-  color: #59A8A3;
+  color: #035F5C;
   line-height: 1;
   display: inline-block;
 }
@@ -195,7 +195,7 @@ h6 {
 }
 
 #intro .intro-content h2 {
-  color: #59A8A3;
+  color: #035F5C;
   margin-bottom: 30px;
   font-size: 64px;
   font-weight: 700;
@@ -221,13 +221,13 @@ h6 {
 }
 
 #intro .intro-content .btn-get-started {
-  background: #59A8A3;
-  border: 2px solid #59A8A3;
+  background: #035F5C;
+  border: 2px solid #035F5C;
 }
 
 #intro .intro-content .btn-get-started:hover {
   background: none;
-  color: #59A8A3;
+  color: #035F5C;
 }
 
 #intro .intro-content .btn-projects {
@@ -507,7 +507,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .section-header h2 {
   font-size: 32px;
-  color: #59A8A3;
+  color: #035F5C;
   text-transform: uppercase;
   font-weight: 700;
   position: relative;
@@ -520,7 +520,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 50px;
   height: 3px;
-  background: #EADED0;
+  background: #9E3532;
   bottom: 0;
   left: 0;
 }
@@ -547,7 +547,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .content h2 {
-  color: #59A8A3;
+  color: #035F5C;
   font-weight: 700;
   font-size: 33px;
   font-family: "Raleway", sans-serif;
@@ -572,7 +572,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .content i {
   font-size: 20px;
   padding-right: 4px;
-  color: #50d8af;
+  color: #035F5C;
 }
 
 #about .content ul {
@@ -619,8 +619,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .box .icon i:before {
-  background: #0c2e8a;
-  background: linear-gradient(45deg, #50d8af 0%, #a3ebd5 100%);
+  background: #035F5C;
+  background: linear-gradient(45deg, #035F5C 0%, #08b8b2 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -923,7 +923,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #50d8af;
+  color: #035F5C;
 }
 
 #contact .contact-info address,
