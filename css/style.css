@@ -16,7 +16,7 @@ body {
 }
 
 a {
-  color: #50d8af;
+  color: x;
   transition: 0.5s;
 }
 
@@ -147,7 +147,7 @@ h6 {
 }
 
 #header #logo h1 a span {
-  color: #EADED0;
+  color: #9E3532;
 }
 
 #header #logo img {
@@ -202,7 +202,7 @@ h6 {
 }
 
 #intro .intro-content h2 span {
-  color: #EADED0;
+  color: #9E3532;
   text-decoration: underline;
 }
 
@@ -231,13 +231,13 @@ h6 {
 }
 
 #intro .intro-content .btn-projects {
-  background: #EADED0;
-  border: 2px solid #EADED0;
+  background: #9E3532;
+  border: 2px solid #9E3532;
 }
 
 #intro .intro-content .btn-projects:hover {
   background: none;
-  color: #EADED0;
+  color: #9E3532;
 }
 
 #intro #intro-carousel {
